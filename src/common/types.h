@@ -11,4 +11,6 @@
 
 typedef unsigned char byte;
 
+
+
 #endif //__COMMON_TYPES_H_

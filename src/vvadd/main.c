@@ -244,6 +244,7 @@ int main(int argc, char** argv)
   byte* src1  = __ALLOC_INIT_DATA(byte, data_size + 0);
   byte* ref   = __ALLOC_INIT_DATA(byte, data_size + 4);
   byte* dest  = __ALLOC_DATA     (byte, data_size + 4);
+  
 
   /* Setting a guards, which is 0xdeadcafe.
      The guard should not change or be touched. */
