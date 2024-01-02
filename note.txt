@@ -1,3 +1,0 @@
-neon
-avx
-simd
